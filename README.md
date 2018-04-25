@@ -22,7 +22,7 @@ An Experimental Study of Neural Networks for Variable Graphs<br>
 Xavier Bresson and Thomas Laurent<br>
 International Conference on Learning Representations, 2018<br>
 ICLR OpenReview: https://openreview.net/pdf?id=SJexcZc8G<br>
-ArXiv extended version: [arXiv:1711.07553](https://arxiv.org/pdf/1711.07553.pdf) <br>
+ArXiv extended version: [arXiv:1711.07553](https://arxiv.org/pdf/1711.07553v2.pdf) <br>
 <br>
 
 ### Codes
