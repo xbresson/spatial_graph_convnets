@@ -23,7 +23,11 @@ Xavier Bresson and Thomas Laurent<br>
 International Conference on Learning Representations, 2018<br>
 ICLR OpenReview: https://openreview.net/pdf?id=SJexcZc8G<br>
 ArXiv extended version: [arXiv:1711.07553](https://arxiv.org/pdf/1711.07553v2.pdf) <br>
+[ICLR Poster] <br>
 <br>
+
+[ICLR Poster]: poster/poster_ICLR18.pdf
+
 
 ### Codes
 The code `01_residual_gated_graph_convnets_subgraph_matching.ipynb` presents an application of the residual gated graph convNets for the problem of sub-graph matching.<br>
